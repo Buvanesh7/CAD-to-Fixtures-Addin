@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Akryaz Tools</Name>
+    <Assembly>AkryazTools.1.0.0.0\AkryazTools.dll</Assembly>
+    <FullClassName>Akryaz.Main</FullClassName>
+    <ClientId>36d2ae09-3c30-46eb-82d3-cad716017954</ClientId>
+    <VendorId>Akryaz</VendorId>
+    <Publisher>Akryaz</Publisher>
+    <VendorDescription>Akryaz, AddIn Developer</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
+

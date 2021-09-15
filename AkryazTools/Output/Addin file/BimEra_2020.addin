@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Pharma Access</Name>
+    <Assembly>C:\Program Files (x86)\BimEra Addin\2020\BimEra.dll</Assembly>
+    <FullClassName>BimEra.Main</FullClassName>
+    <ClientId>1af8968c-1ba1-4cb6-aead-c712146be3d2</ClientId>
+    <VendorId>BimEra</VendorId>
+    <Publisher>BimEra</Publisher>
+    <VendorDescription>BimEra, AddIn Developer</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
+
