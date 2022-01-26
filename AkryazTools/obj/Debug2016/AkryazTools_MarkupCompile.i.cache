@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2016\
-Akryaz
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2016\
+AkryazTools
 none
 false
 TRACE;Revit2016;DEBUG2016
 
-2-717464605
+3-480697358
 
-18-633137380
-791378083914
-App.xaml;Views\CreateSmokeDetectorsWindow.xaml;
+26-1254798755
+132-1452463055
+App.xaml;Views\CreateFixturesWindow.xaml;Views\ShowOrphanedElementsWindow.xaml;
 
-False
+True
 

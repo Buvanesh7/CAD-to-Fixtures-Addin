@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2020\
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\
 AkryazTools
 none
 false
 TRACE;Revit2020;DEBUG2020
 
-3778428598
+3-480697358
 
-25-1591833276
-84-1266619602
+27-1701156205
+841558998033
 App.xaml;Views\CreateFixturesWindow.xaml;Views\ShowOrphanedElementsWindow.xaml;
 
 True

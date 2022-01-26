@@ -38,3 +38,12 @@ C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2020\AkryazTools.
 C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2020\AkryazTools.csproj.CopyComplete
 C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2020\AkryazTools.dll
 C:\Users\Akriyas\source\repos\AkryazTools\AkryazTools\obj\Debug2020\AkryazTools.pdb
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\AkryazTools.csproj.AssemblyReference.cache
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\App.g.cs
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\Views\CreateFixturesWindow.g.cs
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\Views\ShowOrphanedElementsWindow.g.cs
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\GeneratedInternalTypeHelper.g.cs
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\AkryazTools_MarkupCompile.cache
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\AkryazTools_MarkupCompile.lref
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\AkryazTools.dll
+C:\Users\bhss\Source\Repos\MyPersonalAddin\AkryazTools\obj\Debug2020\AkryazTools.pdb

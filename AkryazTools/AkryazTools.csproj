@@ -18,7 +18,7 @@
     </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug2016' Or '$(Configuration)' == 'Release2016'">
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug2017' Or '$(Configuration)' == 'Release2017'">
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -334,7 +334,9 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="AssemblyResolvers\AssemblyResolver.cs" />
+    <Compile Include="Enum\FilterRuleEnum.cs" />
     <Compile Include="ExternalCommands\CreateFixturesCommand.cs" />
+    <Compile Include="ExternalCommands\PreventDeletionCommand.cs" />
     <Compile Include="ExternalCommands\ShowOrphanedElementsCommand.cs" />
     <Compile Include="Helpers\ConstantMembers.cs" />
     <Compile Include="Helpers\DisplayHelper.cs" />
@@ -438,7 +440,7 @@
     <PreBuildEvent>
     </PreBuildEvent>
   </PropertyGroup>
-  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+  <!--<Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
@@ -446,7 +448,7 @@
     <Error Condition="!Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets'))" />
   </Target>
   <Import Project="C:\Users\Akriyas\source\repos\SampleProject\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('C:\Users\Akriyas\source\repos\SampleProject\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />
-  <Import Project="..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />
+  <Import Project="..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />-->
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
